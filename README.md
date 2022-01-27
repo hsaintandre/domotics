@@ -1,2 +1,2 @@
 # domotics
-Domotic system for vacation house
+Domotic system for a vacation house
